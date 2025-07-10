@@ -38,7 +38,8 @@ The dashboard highlights several key performance indicators:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](<img width="1315" height="741" alt="Screenshot 2025-07-11 012410" src="https://github.com/user-attachments/assets/55c494ac-e866-485e-878b-1ea743419467" />
+)
 
 ---
 
@@ -58,14 +59,6 @@ The dashboard highlights several key performance indicators:
 - Many professionals transitioned into data roles from other careers
 - Data Scientists and Engineers earn higher average salaries than Analysts
 - Work/life balance and salary satisfaction scores indicate room for improvement
-
----
-
-## 🔗 Publish Online (Optional)
-
-If this dashboard has been published using Power BI Service, you can share the link here:
-
-[👉 View Live Dashboard](https://app.powerbi.com/view?r=YOUR-LINK-HERE)
 
 ---
 
