@@ -38,7 +38,7 @@ The dashboard highlights several key performance indicators:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](Dashboard Preview.png)
 
 ---
 
