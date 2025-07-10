@@ -64,7 +64,7 @@ The dashboard highlights several key performance indicators:
 ## 🙋‍♂️ Author
 
 **Aarya Jadhav**  
-Feel free to connect with me on [LinkedIn]()
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aaryajadhav8055/)
 
 ---
 
