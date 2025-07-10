@@ -38,7 +38,7 @@ The dashboard highlights several key performance indicators:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1315" height="742" alt="image" src="https://github.com/user-attachments/assets/fa1a2e80-d79d-475a-8ce6-b03288157caa" />)
+![Dashboard Screenshot](images/dashboard_preview.png)
 
 ---
 
@@ -64,7 +64,7 @@ The dashboard highlights several key performance indicators:
 ## 🙋‍♂️ Author
 
 **Aarya Jadhav**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)
+Feel free to connect with me on [LinkedIn]()
 
 ---
 
