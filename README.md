@@ -38,8 +38,7 @@ The dashboard highlights several key performance indicators:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1315" height="741" alt="Screenshot 2025-07-11 012410" src="https://github.com/user-attachments/assets/55c494ac-e866-485e-878b-1ea743419467" />
-)
+![Dashboard Screenshot](<img width="1315" height="742" alt="image" src="https://github.com/user-attachments/assets/fa1a2e80-d79d-475a-8ce6-b03288157caa" />)
 
 ---
 
