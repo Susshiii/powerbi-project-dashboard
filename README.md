@@ -33,6 +33,7 @@ The dashboard highlights several key performance indicators:
 
 - `Final Project.pbix`: The main Power BI file
 - `images/dashboard_preview.png`: Dashboard screenshot for visual reference
+- `Raw Data.xlsx`: Raw Data File
 
 ---
 
